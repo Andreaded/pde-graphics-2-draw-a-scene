@@ -1,6 +1,6 @@
 // Set up canvas
 void setup() {
-  size(10ls00, 1000); // Size of canvas
+  size(1000, 1000); // Size of canvas
   background(275, 275, 275); // Background color as rgb values
 }
 
